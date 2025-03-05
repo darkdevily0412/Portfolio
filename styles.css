@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+.hero {
+    background: #007bff;
+    color: white;
+    padding: 50px 20px;
+}
+h2 {
+    color: #007bff;
+    border-bottom: 2px solid #007bff;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+footer {
+    margin-top: 50px;
+}
